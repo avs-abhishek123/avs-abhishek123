@@ -30,11 +30,10 @@
   
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">My Stats:</h3>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberkallan&show_icons=true&locale=en&layout=compact" alt="cyberkallan" /></p>
 
 ![Abhishek’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true 
 "Abhishek’s GutHub Stats")
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast "Abhishek's Top Languages Card")
