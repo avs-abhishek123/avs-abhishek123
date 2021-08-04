@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberkallan" alt="Allena Venkata Sai Abhishek" /></a> </p>
 
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=jermolene"  style="width:300px; height:20px;"></iframe>
 
 
 - 🔭 I’m currently working on [Detectron2](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
@@ -37,3 +36,8 @@
 "Abhishek’s GutHub Stats")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast "Abhishek's Top Languages Card")
+
+<h3 align="left">Support:</h3>
+
+<a href="https://www.linkedin.com/in/abhishek-a-v-s-381937156/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <a href="https://twitter.com/AllenaVenkata">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> <a href="https://www.instagram.com/avs.abhishek/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<a href="https://github.com/login?return_to=%2Favs-abhishek123">![alt text](https://img.shields.io/github/followers/avs-abhishek123?label=Follow%20me%20on%20GitHub&style=social)
