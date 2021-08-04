@@ -5,7 +5,8 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberkallan" alt="Allena Venkata Sai Abhishek" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy)
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
