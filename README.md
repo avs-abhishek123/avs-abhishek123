@@ -1,14 +1,18 @@
 
 # <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Allena Venkata Sai Abhishek</h3></b>
-
+  
 <h3 align="center">Data analyst, ML Enthusiast & Data Scientist</h3> <h3 align="center">
 
 <hr>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberkallan" alt="Allena Venkata Sai Abhishek" /></a> </p>
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-###
+  <hr>
+<br>
+  
+  ###
 - 🔭 I’m currently working on [Detectron2](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
 
 - 🌱 I’m currently learning **Deep Learning**
@@ -18,6 +22,8 @@
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/avs-abhishek123?tab=repositories)
 
 - 📫 How to reach me **av.sai.abhishek@gmail.com**
+  <br>
+  <br>
 <hr>
   
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -51,6 +57,7 @@ const Abhishek = {
 <hr>
 
 # <b><p align="left">My Stats:</p></b>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=avs-abhishek123.avs-abhishek123)
 
 ![Abhishek’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true 
 "Abhishek’s GutHub Stats") &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast "Abhishek's Top Languages Card")
