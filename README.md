@@ -35,5 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberkallan&show_icons=true&locale=en&layout=compact" alt="cyberkallan" /></p>
 
-![Abhishek’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=synthwave&show_icons=true&count_private=true 
+![Abhishek’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true 
 "Abhishek’s GutHub Stats")
+
