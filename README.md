@@ -69,7 +69,7 @@ const Abhishek = {
 
 # <p align="left">Support:</p>
 
-<a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <a href="https://twitter.com/AllenaVenkata">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> <a href="https://www.instagram.com/avs.abhishek/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <a href="https://twitter.com/avs_abhishek">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> <a href="https://www.instagram.com/avs.abhishek/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
 <a href="https://www.youtube.com/channel/UCNBKO_Lsz5vwmfnlMXucX0A">![alt text](https://img.shields.io/youtube/channel/views/UCNBKO_Lsz5vwmfnlMXucX0A?label=My%20Youtube%20Views&style=for-the-badge)
 
