@@ -44,7 +44,7 @@ const Abhishek = {
 
 ## <b><h3 align="center">Connect with me:</h3></b>
 <p align="center">
-<a href="https://twitter.com/AllenaVenkata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Allena Venkata Sai Abhishek" height="30" width="40" /></a>
+<a href="https://twitter.com/avs_abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Allena Venkata Sai Abhishek" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-a-v-s-381937156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-a-v-s-381937156/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avs.abhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avs.abhishek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNBKO_Lsz5vwmfnlMXucX0A/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCNBKO_Lsz5vwmfnlMXucX0A" height="30" width="40" /></a>
