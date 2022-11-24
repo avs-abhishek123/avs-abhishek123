@@ -8,11 +8,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy)
 
+<hr>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" padding: "70px" />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-  <hr>
-<br>
+  
   
   ###
 - 🔭 I’m currently doing my 2nd Masters degree, i.e MS in ML & AI Spl. Adv. Computer Vision & Adv. NLP 
@@ -118,10 +117,11 @@ const Abhishek = {
 
 # <b><p align="left">My GitHub Analytics ⚙️ Stats:</p></b>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=avs-abhishek123.avs-abhishek123)
+<p align = 'center'>
+<img  height="180em" width = "400em" src ="https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true" alt ="Abhishek’s GutHub Stats"> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-![Abhishek’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true 
-"Abhishek’s GutHub Stats") &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast&layout=compact "Abhishek's Top Languages Card")
-
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast&layout=compact" alt = "Abhishek's Top Languages Card">
+</p>
 <p align = "center">
 <img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=avs-abhishek123&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
 </p> 
@@ -142,7 +142,7 @@ const Abhishek = {
 
 <p align = "center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3>✍️ Random Dev Quote </h3>
+<img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   
 </p>
