@@ -143,6 +143,9 @@ const Abhishek = {
 <img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=avs-abhishek123&theme=chartreuse-dark" alt="Abhishek's GitHub Activity"/>
 </p>
 --->
+
+![](https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=avs-abhishek123&theme=chartreuse-dark) 
+
 <hr>
 
 # <p align="left">Support:</p>
