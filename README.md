@@ -82,6 +82,7 @@ const Abhishek = {
 
 <br>
 <a href="https://www.buymeacoffee.com/abhishekavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.patreon.com/abhishekavs" target="_blank"><img src="https://github.com/avs-abhishek123/avs-abhishek123/blob/main/support_me_patreon.png" alt="Support me on Patreon" height="41" width="124"></a>
 <br>
 
 ## <b><h3 align="center">Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> :</h3></b>
