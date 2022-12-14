@@ -125,7 +125,7 @@ const Abhishek = {
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast&layout=compact" alt = "Abhishek's Top Languages Card">
 </p>
 <p align = "center">
-<img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=avs-abhishek123&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
+
 </p> 
 <!---
 <p align = "center">
