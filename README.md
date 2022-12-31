@@ -2,10 +2,16 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 # <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Allena Venkata Sai Abhishek</h3></b>
-  
-<h3 align="center"> Deep Learning Researcher, Data Scientist, Computer Vision Scientist, Machine Learning Engineer, Artificial Intelligence & Cloud Enthusiast</h3> <h3 align="center">
 
+
+<!--<h3 align="center"> Deep Learning Researcher, Data Scientist, Computer Vision Scientist, Machine Learning Engineer, Artificial Intelligence & Cloud Enthusiast</h3> <h3 align="center">-->
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=700&color=01C0F7&center=true&vCenter=true&width=1000&height=75&lines=Deep+Learning+Researcher;Data+Scientist;Computer+Vision+Scientist;Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Cloud+Enthusiast)](https://git.io/typing-svg)
+  
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle+3X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+projects+on+Github;8%2B+published+research+papers+in+Scopus+Indexed+Journals)](https://git.io/typing-svg)
 <hr>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy)
 
