@@ -3,6 +3,7 @@
 
 # <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Allena Venkata Sai Abhishek</h3></b>
 
+<img  src="assests/borderseperator.gif">
 
 <!--<h3 align="center"> Deep Learning Researcher, Data Scientist, Computer Vision Scientist, Machine Learning Engineer, Artificial Intelligence & Cloud Enthusiast</h3> <h3 align="center">-->
   
@@ -123,6 +124,7 @@ const Abhishek = {
 
 
 # <b><p align="left">My GitHub Analytics ⚙️ Stats:</p></b>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=avs-abhishek123.avs-abhishek123)
 <p align = 'center'>
 <img  height="180em" width = "400em" src ="https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true" alt ="Abhishek’s GutHub Stats"> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
