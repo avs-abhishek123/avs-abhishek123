@@ -86,19 +86,54 @@ const Abhishek = {
 </p>
 <br>
 
-<br>
-<a href="https://www.buymeacoffee.com/abhishekavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a href="https://www.patreon.com/abhishekavs" target="_blank"><img src="https://github.com/avs-abhishek123/avs-abhishek123/blob/main/support_me_patreon.png" alt="Support me on Patreon" height="41" width="124"></a>
-<br>
+<img src="assests/borderseperator.gif">
+  <h1 align="center">Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/avs.abhishek/" target="_blank">
+    <img align="center" alt="Instagram logo" height="50" width="50" src="assests/instagram_logo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/avs-abhishek123" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:av.sai.abhishek@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
 
-## <b><h3 align="center">Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> :</h3></b>
+  <a href="https://www.youtube.com/channel/UCFf3DOwYUF2Rhe2-rC3uy9A" target="_blank">
+    <img align="center" alt=" =Youtube logo" height="50" width="50" src="assests/youtube_logo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://dev.to/avsabhishek123" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://twitter.com/avs_abhishek" target="_blank">
+    <img align="center" alt="Twitter" height="50" width="50" src="assests/twitter_logo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a>
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+    <span>Aby</span>
+  </a>
+</p> 
+
+<img src="assests/borderseperator.gif">
+
+
+
+<!-- ## <b><h3 align="center">Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> :</h3></b>
 <p align="center">
 <a href="https://twitter.com/avs_abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Allena Venkata Sai Abhishek" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avs.abhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avs.abhishek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNBKO_Lsz5vwmfnlMXucX0A/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCNBKO_Lsz5vwmfnlMXucX0A" height="30" width="40" /></a>
 </p>
-<hr>
+<hr> -->
 
 
 
@@ -154,15 +189,25 @@ const Abhishek = {
 
 ![](https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=avs-abhishek123&theme=chartreuse-dark) 
 
-<hr>
+<img src="assests/borderseperator.gif">
 
 # <p align="left">Support: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
+
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <a href="https://twitter.com/avs_abhishek">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> <a href="https://www.instagram.com/avs.abhishek/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> <a href="https://www.youtube.com/channel/UCFf3DOwYUF2Rhe2-rC3uy9A">![alt text](https://img.shields.io/youtube/channel/views/UCFf3DOwYUF2Rhe2-rC3uy9A?style=social) <a href="https://github.com/avs-abhishek123">![alt text](https://img.shields.io/github/followers/avs-abhishek123?label=Follow%20me%20on%20GitHub&style=social)
 
+<br>
+<a href="https://www.buymeacoffee.com/abhishekavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.patreon.com/abhishekavs" target="_blank"><img src="https://github.com/avs-abhishek123/avs-abhishek123/blob/main/support_me_patreon.png" alt="Support me on Patreon" height="41" width="124"></a>
+<br>
+<br>
+<br>
+  
 <p align = "center">
 
-<h3>✍️ Random Dev Quote </h3>
+<img src="assests/borderseperator.gif">
+
+<h1>✍️ Random Dev Quote </h1>
 <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   
 </p>
