@@ -140,6 +140,7 @@ const Abhishek = {
 
 <br>
 <h1 align="center">Kaggle Statistics🥇</h1>
+<center><img src  = "assests/Kaggle_logo.png"></center>
 <div align="center">
 <a href="https://www.kaggle.com/abhishek14398"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/abhishek14398" /></a>
 </div>
@@ -178,7 +179,19 @@ const Abhishek = {
  <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat-square&logo=jupyter&logoColor=white"/>
  <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=flat-square&logo=anaconda&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=flask&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 <img src = "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 
