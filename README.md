@@ -1,5 +1,4 @@
 ![](https://github.com/avs-abhishek123/avs-abhishek123/blob/main/Untitled%20design.png)
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 # <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Allena Venkata Sai Abhishek</h3></b>
 
@@ -13,7 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle+3X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+Projects+on+GitHub;8%2B+Published+research+papers+in+Scopus+Indexed+Journals;20K%2B+Networks+on+LinkedIn;500K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
 
 <hr>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" padding: "70px" />
@@ -24,67 +25,42 @@
 - 🔭 I’m currently doing my 2nd Masters degree, i.e MS in ML & AI Spl. Adv. Computer Vision & Adv. NLP 
 - 🏅 ◤BTech→MTech→Adv. PG→MS→PhD*◢
 - 🧑‍🎓VIT◆GITAM◆IGNOU◆IIIT◆LJMU
-- 🌱 I’m currently learning **Deep Learning**
-
+- 🌱 I’m currently learning **Generative AI, Adv. Computer Vision & Active Learning**
 - 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
 
+<!-- - 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
+ -->
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/avs-abhishek123?tab=repositories)
 
 - 📫 How to reach me **av.sai.abhishek@gmail.com**
   <br>
   <br>
 <hr>
-  
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-  
-  
-```javascript
-const Abhishek = {
-  pronouns: "He" | "Him",
-  code: [ Python, HTML, CSS, Javascript, SQL, React, GO lang, Rust, PHP, C++, Java],
-  Python-Libraries: [Numpy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn ( Sklearn ), Beautifulsoup, urllib, Selenium, Tweepy, Albumentations, Augmentors, Imgaug, scikit-image, Torchvision, Python Image Library ( PIL ), OpenCV, Detectron2, ImageAI ]
-  Deep Learning Frameworks : [ Torch, PyTorch, Tensorflow, Keras, MXNet, Caffe ],
-  Skills : 
-      •	Machine Learning Algorithms ( ML ):  
-                 [ End-to-end ML Pipeline Development, Active Learning, Supervised learning, Unsupervised learning, Semi-supervised learning, Reinforcement learning, Classification, Binary Classification, Multiclass Classification, Regression, Linear regression, Logistic regression, Simple linear regression, Multiple linear regression, Regression analysis, Lasso regression, Ridge regression, Polynomial regression, K-nearest neighbors algorithm, Knn (K Nearest Neighbours), K Nearest Neighbour (Knn), Clustering, Cluster analysis, Hierarchical clustering, k-means clustering, Dbscan Clustering, Mean Shift Clustering, Decision trees, Decision-making, Decision tree learning, Bernoulli Naive Bayes, Logistic Regression, Naive Bayes classifier, Random forest, Support Vector Machines (SVM), XGBoost, Boosting, AdaBoost, Gradient boosting, ROC, AUC, R squared, RMS, Recall rate, Principal component analysis ( PCA ), Data Encoding, One hot encoding, FI Score ],
-      •	Deep Learning ( DL ): 
-                 [ transfer learning neural models Convolutional Neural Networks (CNN), Recurrent neural network (RNN), Artificial neural networks (ANN), Neural Network (NN), Dimensionality Reduction, ResNet, Encoder, Decoder, Long Short-term Memory (LSTM), GRU, MLops, MLflow, Optimization, Normalizing Flows, Generative Models like GANs, Backpropagation, Gradient descent, Stochastic gradient descent, Activation Functions, Autoencoders, Encoder, Decoder, Regularization, Deep Learning Frameworks or Deep Learning Toolkits like Torch, PyTorch, Tensorflow, Keras, MXNet, Caffe ], 
-      •	Computer Vision / Image Processing: 
-                 [ state-of-the-art algorithms Image classification Image localization Image recognition Image Detection, Image Analytics, Image Segmentation, Instance Segmentation, Object tracking, Image & Video Understanding, Manipulation and Synthesis, Video Analytics, Video Segmentation, YOLO, Single Shot Detector (SSD), Scale-invariant feature transform algorithm (SIFT), Viola-Jones, Mean-shift algorithm for fast tracking of object, feature-point extraction, Histogram of Oriented Gradients (HOG), Region-based Fully Convolutional Network (R-FCN), R-CNN, Mask R-CNN, Fast R-CNN, Faster R-CNN, RetinaNet, Blitznet Digital image processing in Remote Sensing, Image restoration, Image rectification, Noise removal, Destipping, Image Enhancement, Histogram Equalization, Image transformation, Image reconstruction, Geographic Information System ( GIS ), Geospatial data, Vector data model, Raster data model ],
-      •	Data Science:  
-                 [ Business Analytics, Business Intelligence, Business Analysis, Risk Analysis Data Mining, Web Scraping, Web Crawling, Structured data, Unstructured data, Data Ingestion, Data Wrangling, Data Analysis, Data quality and validation, Data Analytics, Data Modelling, Relational modelling, dimensional modelling, ETL, Data frames, Feature Engineering, Panda Series, E-commerce Analytics, Marketing Analytics, Customer analytics, Google Analytics, manipulating/transforming data, model selection, model training, cross-validation, correlation, F-Test, T-Test, Chi square test, Deployment at scale, Data Preprocessing, Data Cleaning, Data wrangling, Data Warehousing, Exploratory Data Analysis ( EDA ) , Data Augmentation, Pattern Recognition, Critical and Analytic Problem Solving, Text Analytics, Market basket analysis, Data Visualization, Linear Algebra, Calculus, Statistics, Statistical Analysis, statistical modelling such as predictive modeling, churn analysis, time series forecasting, Autoregressive integrated moving average ( ARIMA ), Mathematics, Hypothesis Testing, R, ggplot, Gaussian Models, Bayesian models, graph analytics, KPIs, MS Excel, Dashboard, Tableau, text analytics, Audio Analytics, Scatter Plot, Word Cloud, Heat Map ],
-      •	Natural Language Processing ( NLP ) :  
-                 [ Natural Language Understanding (NLU), Speech Recognition, Transformers, HuggingFace, T5 transformers, GPT3, , BERT, Spacy, Tokenization, Stemming, Lemmatization, Bag of words, Word2Vec, Universal Sentence Encoder, Entity Extraction ]
-      •	Cloud:  
-                 [ Familiarity with AWS services related to AI/ML, Amazon Web Services, Amazon EMR, AWS Lambda, SageMaker, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Green Grass etc. Data warehousing, Microsoft Azure Synapse, MS Azure Data lake Gen, Azure Data Storage, Google Cloud Platform ( GCP ), Workflow management engines or data-oriented workflow orchestration frameworks like Apache Airflow, Snowflake, Big data platforms like Apache Spark, Hadoop ]
-      •	Database:  
-                 [ SQL, MySQL, PostgreSQL, DBMS ( Database management systems ), Microsoft SQL Server Management Studio, T-SQL ],
-      •	Tools/Environments:  
-                 [ Code Editors like Visual Studio Code ( VS Code ), Google Colab, Jupyter Notebook, Distributed Systems, distributed computing, GPU, TPU ],
-      •	Research [Link]:  
-                 [ Report Making, Scripting skills, Operations, Data Presentation Skills, Interpersonal Communication, Microsoft Office, Microsoft PowerPoint, Hands-on experience and project-based learning, Record of delivering large analytical solutions with business impact, Auditing, Applied Research, Effective Communicator ],
-      •	Web Development:  
-                 [ API, API Integration, Rest API, CUDA, JSON, XAMPP, PHPmyadmin, Postman, HTML, HTML5, CSS, JavaScript, JSON, XML, Flask, Flask RESTful, GO, GOlang, Rust, Node JS, Chatbots, Web designing, Front end Web Development, CRUD application ],
-      •	Other:  
-                 [ Object-oriented programming concepts (OOPs) Data Structures and algorithms ( DSA ), Code Refactoring, OO language, Python, C++, C, Algorithm Development, Open Source Projects, Django, Docker, Pyspark, Software Development Life Cycle ( SLDC ), debugging,  YAML, continuous integration and delivery (CI/CD) pipelines, Software development environment, Code management, Version Control System, GIT, bash, Github, Gitlab, Artificial Intelligence (AI), Agile Methodologies, Agile team environment, Test Automation Frameworks, A/B testing, Unit Testing, Windows, Linux, Ubuntu, Tmux, Screen, Linux server, WSL, Atlassian, Ticketing Software, JIRA, Invision, Confluence, Canva, Filmora, tinyML, Explainable AI, SHAP, Conversational AI tools - Kore.ai, Responsible AI ],
-  challenge: "I am doing the #1000DaysOfCode challenge focused on Deep learning, Data Science, Computer Vision & NLP"
-}
-```
-  
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h3>
 
-<br>
-<h1 align="center">Kaggle Statistics🥇</h1>
+
 <div align="center">
-<a href="https://www.kaggle.com/abhishek14398"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/abhishek14398" /></a>
-</div>
+  <h1> <strong> My GitHub Analytics ⚙️ Stats: </strong> <img src="assests/borderseperator.gif"></h1>
+  <img src="https://github-profile-trophy.vercel.app/?username=avs-abhishek123&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+
+   <p>
+    <a href="https://www.codewars.com/users/HyunCafe">
+      <img src="https://github.r2v.ch/codewars?user=avs-abhishek123&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
+    </a>
+  </p>
+
+  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=avs-abhishek123&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+
+  <img src="https://streak-stats.demolab.com?user=avs-abhishek123&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=avs-abhishek123&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
+
+[![Abhishek's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=avs-abhishek123&custom_title=Abhishek's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/competitions" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/dataset" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/notebook" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/discussion" />
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
 </p>
-<br>
+
 
 <img src="assests/borderseperator.gif">
   <h1 align="center">Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
@@ -122,7 +98,60 @@ const Abhishek = {
   </a>
 </p> 
 
-<img src="assests/borderseperator.gif">
+<img src="assests/borderseperator.gif">  
+
+
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+  
+  
+```javascript
+const Abhishek = {
+  pronouns: "He" | "Him",
+  code: [ Python, HTML, CSS, Javascript, SQL, React, GO lang, Rust, PHP, C++, Java],
+  Python-Libraries: [Numpy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn ( Sklearn ), Beautifulsoup, urllib, Selenium, Tweepy, Albumentations, Augmentors, Imgaug, scikit-image, Torchvision, Python Image Library ( PIL ), OpenCV, Detectron2, ImageAI ]
+  Deep Learning Frameworks : [ Torch, PyTorch, Tensorflow, Keras, MXNet, Caffe ],
+  Skills : 
+      •	Machine Learning Algorithms ( ML ):  
+                 [ End-to-end ML Pipeline Development, Active Learning, Supervised learning, Unsupervised learning, Semi-supervised learning, Reinforcement learning, Classification, Binary Classification, Multiclass Classification, Regression, Linear regression, Logistic regression, Simple linear regression, Multiple linear regression, Regression analysis, Lasso regression, Ridge regression, Polynomial regression, K-nearest neighbors algorithm, Knn (K Nearest Neighbours), K Nearest Neighbour (Knn), Clustering, Cluster analysis, Hierarchical clustering, k-means clustering, Dbscan Clustering, Mean Shift Clustering, Decision trees, Decision-making, Decision tree learning, Bernoulli Naive Bayes, Logistic Regression, Naive Bayes classifier, Random forest, Support Vector Machines (SVM), XGBoost, Boosting, AdaBoost, Gradient boosting, ROC, AUC, R squared, RMS, Recall rate, Principal component analysis ( PCA ), Data Encoding, One hot encoding, FI Score ],
+      •	Deep Learning ( DL ): 
+                 [ transfer learning neural models Convolutional Neural Networks (CNN), Recurrent neural network (RNN), Artificial neural networks (ANN), Neural Network (NN), Dimensionality Reduction, ResNet, Encoder, Decoder, Long Short-term Memory (LSTM), GRU, MLops, MLflow, Optimization, Normalizing Flows, Generative Models like GANs, Backpropagation, Gradient descent, Stochastic gradient descent, Activation Functions, Autoencoders, Encoder, Decoder, Regularization, Deep Learning Frameworks or Deep Learning Toolkits like Torch, PyTorch, Tensorflow, Keras, MXNet, Caffe ], 
+      •	Computer Vision / Image Processing: 
+                 [ state-of-the-art algorithms Image classification Image localization Image recognition Image Detection, Image Analytics, Image Segmentation, Instance Segmentation, Object tracking, Image & Video Understanding, Manipulation and Synthesis, Video Analytics, Video Segmentation, YOLO, Single Shot Detector (SSD), Scale-invariant feature transform algorithm (SIFT), Viola-Jones, Mean-shift algorithm for fast tracking of object, feature-point extraction, Histogram of Oriented Gradients (HOG), Region-based Fully Convolutional Network (R-FCN), R-CNN, Mask R-CNN, Fast R-CNN, Faster R-CNN, RetinaNet, Blitznet Digital image processing in Remote Sensing, Image restoration, Image rectification, Noise removal, Destipping, Image Enhancement, Histogram Equalization, Image transformation, Image reconstruction, Geographic Information System ( GIS ), Geospatial data, Vector data model, Raster data model ],
+      •	Data Science:  
+                 [ Business Analytics, Business Intelligence, Business Analysis, Risk Analysis Data Mining, Web Scraping, Web Crawling, Structured data, Unstructured data, Data Ingestion, Data Wrangling, Data Analysis, Data quality and validation, Data Analytics, Data Modelling, Relational modelling, dimensional modelling, ETL, Data frames, Feature Engineering, Panda Series, E-commerce Analytics, Marketing Analytics, Customer analytics, Google Analytics, manipulating/transforming data, model selection, model training, cross-validation, correlation, F-Test, T-Test, Chi square test, Deployment at scale, Data Preprocessing, Data Cleaning, Data wrangling, Data Warehousing, Exploratory Data Analysis ( EDA ) , Data Augmentation, Pattern Recognition, Critical and Analytic Problem Solving, Text Analytics, Market basket analysis, Data Visualization, Linear Algebra, Calculus, Statistics, Statistical Analysis, statistical modelling such as predictive modeling, churn analysis, time series forecasting, Autoregressive integrated moving average ( ARIMA ), Mathematics, Hypothesis Testing, R, ggplot, Gaussian Models, Bayesian models, graph analytics, KPIs, MS Excel, Dashboard, Tableau, text analytics, Audio Analytics, Scatter Plot, Word Cloud, Heat Map ],
+      •	Natural Language Processing ( NLP ) :  
+                 [ Natural Language Understanding (NLU), Speech Recognition, Transformers, HuggingFace, T5 transformers, GPT3, , BERT, Spacy, Tokenization, Stemming, Lemmatization, Bag of words, Word2Vec, Universal Sentence Encoder, Entity Extraction ]
+      •	Cloud:  
+                 [ Familiarity with AWS services related to AI/ML, Amazon Web Services, Amazon EMR, AWS Lambda, SageMaker, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Green Grass etc. Data warehousing, Microsoft Azure Synapse, MS Azure Data lake Gen, Azure Data Storage, Google Cloud Platform ( GCP ), Workflow management engines or data-oriented workflow orchestration frameworks like Apache Airflow, Snowflake, Big data platforms like Apache Spark, Hadoop ]
+      •	Database:  
+                 [ SQL, MySQL, PostgreSQL, DBMS ( Database management systems ), Microsoft SQL Server Management Studio, T-SQL ],
+      •	Tools/Environments:  
+                 [ Code Editors like Visual Studio Code ( VS Code ), Google Colab, Jupyter Notebook, Distributed Systems, distributed computing, GPU, TPU ],
+      •	Research [Link]:  
+                 [ Report Making, Scripting skills, Operations, Data Presentation Skills, Interpersonal Communication, Microsoft Office, Microsoft PowerPoint, Hands-on experience and project-based learning, Record of delivering large analytical solutions with business impact, Auditing, Applied Research, Effective Communicator ],
+      •	Web Development:  
+                 [ API, API Integration, Rest API, CUDA, JSON, XAMPP, PHPmyadmin, Postman, HTML, HTML5, CSS, JavaScript, JSON, XML, Flask, Flask RESTful, GO, GOlang, Rust, Node JS, Chatbots, Web designing, Front end Web Development, CRUD application ],
+      •	Other:  
+                 [ Object-oriented programming concepts (OOPs) Data Structures and algorithms ( DSA ), Code Refactoring, OO language, Python, C++, C, Algorithm Development, Open Source Projects, Django, Docker, Pyspark, Software Development Life Cycle ( SLDC ), debugging,  YAML, continuous integration and delivery (CI/CD) pipelines, Software development environment, Code management, Version Control System, GIT, bash, Github, Gitlab, Artificial Intelligence (AI), Agile Methodologies, Agile team environment, Test Automation Frameworks, A/B testing, Unit Testing, Windows, Linux, Ubuntu, Tmux, Screen, Linux server, WSL, Atlassian, Ticketing Software, JIRA, Invision, Confluence, Canva, Filmora, tinyML, Explainable AI, SHAP, Conversational AI tools - Kore.ai, Responsible AI ],
+  challenge: "I am doing the #1000DaysOfCode challenge focused on Deep learning, Data Science, Computer Vision & NLP"
+}
+```
+
+<br>
+<h1 align="center">Kaggle Statistics🥇</h1>
+<div align="center">
+<a href="https://www.kaggle.com/abhishek14398"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/abhishek14398" /></a>
+</div>
+<p align="center">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/competitions" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/dataset" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/notebook" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/discussion" />
+</p>
+<br>
+
+
 
 
 
@@ -150,6 +179,7 @@ const Abhishek = {
  <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=flat-square&logo=anaconda&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=flask&logoColor=white"/>
 
+<img src = "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 
 <b><p align="left"><h1>Languages & Tools:</h1></b> <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -189,9 +219,13 @@ const Abhishek = {
 
 ![](https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=avs-abhishek123&theme=chartreuse-dark) 
 
+
+
 <img src="assests/borderseperator.gif">
 
 # <p align="left">Support: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h3>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <a href="https://twitter.com/avs_abhishek">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> <a href="https://www.instagram.com/avs.abhishek/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> <a href="https://www.youtube.com/channel/UCFf3DOwYUF2Rhe2-rC3uy9A">![alt text](https://img.shields.io/youtube/channel/views/UCFf3DOwYUF2Rhe2-rC3uy9A?style=social) <a href="https://github.com/avs-abhishek123">![alt text](https://img.shields.io/github/followers/avs-abhishek123?label=Follow%20me%20on%20GitHub&style=social)
