@@ -70,7 +70,7 @@ Your README will now be visible on the main page of your repository. -->
     <a href="https://www.codewars.com/users/HyunCafe">
       <img src="https://github.r2v.ch/codewars?user=avs-abhishek123&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
     </a>
-     <a href="https://app.daily.dev/avs-abhishek123"><img align='right' src="https://api.daily.dev/devcards/c500bc75427b42efb78cfb7c54f56d89.png?r=shn" width="280" alt="Abhishek's Dev Card"/></a>
+     <a href="https://app.daily.dev/avs-abhishek123"><img align='right' src="https://api.daily.dev/devcards/c500bc75427b42efb78cfb7c54f56d89.png?r=shn" width="250" alt="Abhishek's Dev Card"/></a>
 <!--      <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="Abhishek's Dev Card" /></a> -->
   </p>
 
