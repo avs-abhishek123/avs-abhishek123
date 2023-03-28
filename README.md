@@ -27,8 +27,8 @@ Your README will now be visible on the main page of your repository.
 
 
 <!--![](https://github.com/avs-abhishek123/avs-abhishek123/blob/main/Untitled%20design.png)-->
-![](https://github.com/avs-abhishek123/avs-abhishek123/blob/864c859347e9a1427bfa59b33ba2984dbbbac6cb/jobsforavsabhishek.png)
-
+<!--![](https://github.com/avs-abhishek123/avs-abhishek123/blob/864c859347e9a1427bfa59b33ba2984dbbbac6cb/jobsforavsabhishek.png)-->
+![My Intro](https://github.com/avs-abhishek123/avs-abhishek123/blob/8e1cd88422b579e88d7769f5d102557bd7d14f2c/researchforavsabhishek.png)
 # <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Allena Venkata Sai Abhishek</h3></b>
 
 <img  src="assests/borderseperator.gif">
