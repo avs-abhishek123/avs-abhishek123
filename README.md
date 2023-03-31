@@ -29,7 +29,8 @@ Your README will now be visible on the main page of your repository.
 <!--![](https://github.com/avs-abhishek123/avs-abhishek123/blob/main/Untitled%20design.png)-->
 <!--![](https://github.com/avs-abhishek123/avs-abhishek123/blob/864c859347e9a1427bfa59b33ba2984dbbbac6cb/jobsforavsabhishek.png)-->
 <!--![My Intro](https://github.com/avs-abhishek123/avs-abhishek123/blob/8e1cd88422b579e88d7769f5d102557bd7d14f2c/researchforavsabhishek.png)-->
-![My Intro](https://github.com/avs-abhishek123/avs-abhishek123/blob/b9cc21929850bd4647b0187214b0e1892521b4b3/Updated_researchforavs.abhishek_final.png)
+<!--![My Intro](https://github.com/avs-abhishek123/avs-abhishek123/blob/b9cc21929850bd4647b0187214b0e1892521b4b3/Updated_researchforavs.abhishek_final.png)-->
+![My Intro](https://github.com/avs-abhishek123/avs-abhishek123/blob/c0c3a0317c8a96a48c6628ef6947f4f320a240a4/FINAL_researchforavs.abhishek.png)
 # <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Allena Venkata Sai Abhishek</h3></b>
 
 <img  src="assests/borderseperator.gif">
@@ -76,7 +77,10 @@ Your README will now be visible on the main page of your repository.
     <a href="https://www.codewars.com/users/HyunCafe">
       <img src="https://github.r2v.ch/codewars?user=avs-abhishek123&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
     </a>
-     <a href="https://app.daily.dev/avs-abhishek123"><img align='right' src="https://api.daily.dev/devcards/c500bc75427b42efb78cfb7c54f56d89.png?r=shn" width="250" alt="Abhishek's Dev Card"/></a>
+    <a>
+      <img src="https://github.com/avs-abhishek123/avs-abhishek123/blob/c0c3a0317c8a96a48c6628ef6947f4f320a240a4/google_india_challenge_scholarship_recipient.jpg" height="200" alt="google india scholarship" />
+    </a>
+    <a href="https://app.daily.dev/avs-abhishek123"><img align='right' src="https://api.daily.dev/devcards/c500bc75427b42efb78cfb7c54f56d89.png?r=shn" width="250" alt="Abhishek's Dev Card"/></a>
 <!--      <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="Abhishek's Dev Card" /></a> -->
   </p>
 
