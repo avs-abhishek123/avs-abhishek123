@@ -57,7 +57,7 @@ Your README will now be visible on the main page of your repository.
 - 🏅 ◤BTech→MTech→Adv. PG→MS→PhD*◢
 - 🧑‍🎓VIT◆GITAM◆IGNOU◆IIIT◆LJMU
 - 🌱 I’m currently learning **Generative AI, Adv. Computer Vision & Active Learning**
-- 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
+- 👯 I’m looking to collaborate on [Computer Vision Projects](https://github.com/avs-abhishek123/Computer-Vision-Projects)
 
 <!-- - 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
  -->
