@@ -239,7 +239,8 @@ const Abhishek = {
 
 # <b><p align="left">My GitHub Analytics ⚙️ Stats:</p></b>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=avs-abhishek123.avs-abhishek123)
+[![Profile Visits](https://komarev.com/ghpvc/?username=avs-abhishek123&color=0000FF)](https://github.com/avs-abhishek123)
+
 <p align = 'center'>
 <img  height="180em" width = "400em" src ="https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true" alt ="Abhishek’s GutHub Stats"> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
