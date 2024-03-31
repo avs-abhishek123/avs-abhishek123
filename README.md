@@ -174,7 +174,7 @@ const Abhishek = {
 }
 ```
 
-<br>
+<!-- <br>
 <h1 align="center">Kaggle Statistics🥇</h1>
 <center><img src  = "assests/Kaggle_logo.png"></center>
 <div align="center">
@@ -186,7 +186,7 @@ const Abhishek = {
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/notebook" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhishek14398/discussion" />
 </p>
-<br>
+<br> -->
 
 
 
