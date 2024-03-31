@@ -40,7 +40,7 @@ Your README will now be visible on the main page of your repository.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=700&color=01def7&center=true&vCenter=true&width=1000&height=75&lines=Deep+Learning+Researcher;Data+Scientist;Computer+Vision+Scientist;Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Cloud+Enthusiast;Software+Architect)](https://git.io/typing-svg)
   
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle+3X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+Projects+on+GitHub;8%2B+Published+research+papers+in+Scopus+Indexed+Journals;20K%2B+Networks+on+LinkedIn;500K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle++Master+and+2X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+Projects+on+GitHub;8%2B+Published+research+papers+in+Scopus+Indexed+Journals;25K%2B+Networks+on+LinkedIn;600K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy) -->
