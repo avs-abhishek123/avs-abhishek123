@@ -40,7 +40,9 @@ Your README will now be visible on the main page of your repository.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=700&color=01def7&center=true&vCenter=true&width=1000&height=75&lines=Artificial+Intelligence+Architect;Senior+Computer+Vision+Engineer;Senior+Data+Scientist;Computer+Vision+Scientist;Senior+Software+Developer;Senior+Machine+Learning+Engineer;Senior+Generative+AI+Engineer;Solutions+Architect;Cloud+Architect)](https://git.io/typing-svg)
   
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle++Master+and+2X+Expert;75%2B+Global+Rank;300%2B+Projects+on+GitHub;10%2B+Published+research+papers+in+Scopus+Indexed+Journals;26K%2B+Networks+on+LinkedIn;700K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle++Master+and+2X+Expert;Built+75%2B+Scalable+AI+apps+in+just+1+year;Achieved+200K%2B+daily+active+users+for+it+in+just+1+year.;10%2B+Published+research+papers+in+Scopus+Indexed+Journals;Consistent+Top+Performer+of+the+company;Youngest+AI+Architect+of+Simplia%2C+a+20+yrs+old+company;700K%2B+Viewership+on+Quora+%26+Medium;26K%2B+Networks+on+LinkedIn)](https://git.io/typing-svg)
+
+
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy) -->
