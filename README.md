@@ -103,7 +103,7 @@ Your README will now be visible on the main page of your repository.
 <img src="assests/borderseperator.gif">
   <h1 align="center">Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/" target="_blank">
+  <a href="https://www.linkedin.com/in/aiabhi/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/avs.abhishek/" target="_blank">
@@ -114,11 +114,11 @@ Your README will now be visible on the main page of your repository.
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:av.sai.abhishek@gmail.com" target="_blank">
+  <a href="mailto:avsai.work@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/channel/UCFf3DOwYUF2Rhe2-rC3uy9A" target="_blank">
+  <a href="https://www.youtube.com/@AiAbhi101" target="_blank">
     <img align="center" alt=" =Youtube logo" height="50" width="50" src="assests/youtube_logo.png"/>
   </a> &nbsp;&nbsp;
   
