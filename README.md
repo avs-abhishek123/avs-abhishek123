@@ -54,12 +54,19 @@ Your README will now be visible on the main page of your repository.
 
   
   
-  ###
-- 🔭 I’m currently doing my 2nd Masters degree, i.e MS in ML & AI Spl. Adv. Computer Vision & Adv. NLP 
-- 🏅 ◤BTech→MTech→Adv. PG→MS→PhD*◢
-- 🧑‍🎓VIT◆GITAM◆IGNOU◆IIIT◆LJMU
-- 🌱 I’m currently learning **Generative AI, Adv. Computer Vision & Active Learning**
-- 👯 I’m looking to collaborate on [Computer Vision Projects](https://github.com/avs-abhishek123/Computer-Vision-Projects)
+### 👋 Hi, I'm Abhishek Sai Allena
+
+**Senior AI Engineer | Head of AI @ Callsure AI | Kaggle Master #43 🏆**
+
+- 🚀 Leading AI strategy & product development for enterprise Voice AI platform serving 20+ clients with $220K+ ARR
+- 🎓 **MS in ML & AI** (Liverpool John Moores University, UK) | **Executive PG** (IIIT Bangalore) | **M.Tech Data Science** (GITAM - University Topper)
+- 🔬 Specialized in **Generative AI, LLMs (GPT, Claude, Llama), RAG Architectures, Computer Vision & NLP**
+- 💡 Architected 75+ production LLM applications serving 200K+ DAUs with 98% uptime | Published 9+ Scopus-indexed papers
+- 🏅 **Kaggle Master** (Ranked #43 Globally) | 300+ GitHub Projects | 800K+ Quora Views
+- 🛠️ **Tech Stack:** LangChain, LlamaIndex, Vector DBs, PyTorch, TensorFlow, FastAPI, Docker, Kubernetes, AWS/GCP/Azure
+- 👯 Open to collaborating on **Production GenAI Systems, Multimodal AI, & Enterprise RAG Solutions**
+- 🌱 Currently exploring **Agentic AI Workflows, Multimodal LLMs & Advanced Prompt Engineering**
+- 📫 Reach me: avsai.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/aiabhi/) | [Portfolio](https://www.aiabhi.com/) | [Google Scholar](https://scholar.google.com/citations?user=PpenlpUAAAAJ&hl=en)
 
 <!-- - 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
  -->
