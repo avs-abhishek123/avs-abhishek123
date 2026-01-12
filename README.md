@@ -50,14 +50,13 @@ Your README will now be visible on the main page of your repository.
 
 
 <hr>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" padding: "70px" />
-
-  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" padding: "70px" /> <br>
   
 ### 
 **Senior AI Engineer | Head of AI @ Callsure AI | Kaggle Master #43 🏆**
 
 - 🚀 Leading AI strategy & product development for enterprise Voice AI platform serving 20+ clients with $220K+ ARR
+- 🏆 **Youngest Director of AI** at Lotus Interworks | Promoted twice in 2 years | Recipient of Innovator Award
 - 🎓 **MS in ML & AI** (Liverpool John Moores University, UK) | **Executive PG** (IIIT Bangalore) | **M.Tech Data Science** (GITAM - University Topper)
 - 🔬 Specialized in **Generative AI, LLMs (GPT, Claude, Llama), RAG Architectures, Computer Vision & NLP**
 - 💡 Architected 75+ production LLM applications serving 200K+ DAUs with 98% uptime | Published 9+ Scopus-indexed papers
@@ -74,39 +73,9 @@ Your README will now be visible on the main page of your repository.
 - 📫 How to reach me **avsai.work@gmail.com**
   <br>
   <br>
-<hr>
-
-
-<div align="center">
-  <h1> <strong> My GitHub Analytics ⚙️ Stats: </strong> <img src="assests/borderseperator.gif"></h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=avs-abhishek123&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-
-   <p>
-    <a href="https://www.codewars.com/users/HyunCafe">
-      <img src="https://github.r2v.ch/codewars?user=avs-abhishek123&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
-    </a>
-    <a>
-      <img src="https://github.com/avs-abhishek123/avs-abhishek123/blob/c0c3a0317c8a96a48c6628ef6947f4f320a240a4/google_india_challenge_scholarship_recipient.jpg" height="200" alt="google india scholarship" />
-    </a>
-    <a href="https://app.daily.dev/avs-abhishek123"><img align='right' src="https://api.daily.dev/devcards/c500bc75427b42efb78cfb7c54f56d89.png?r=shn" width="250" alt="Abhishek's Dev Card"/></a>
-<!--      <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="Abhishek's Dev Card" /></a> -->
-  </p>
-
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=avs-abhishek123&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
-
-  <img src="https://streak-stats.demolab.com?user=avs-abhishek123&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=avs-abhishek123&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
-
-[![Abhishek's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=avs-abhishek123&custom_title=Abhishek's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
-</p>
-
 
 <img src="assests/borderseperator.gif">
+
   <h1 align="center">Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/aiabhi/" target="_blank">
@@ -243,17 +212,15 @@ const Abhishek = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> </p>
 
 <hr>
-
+<p align="center">
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
 
 # <b><p align="left">My GitHub Analytics ⚙️ Stats:</p></b>
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=avs-abhishek123&color=0000FF)](https://github.com/avs-abhishek123)
 
-<p align = 'center'>
-<img  height="180em" width = "400em" src ="https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true" alt ="Abhishek’s GutHub Stats"> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast&layout=compact" alt = "Abhishek's Top Languages Card">
-</p>
 <p align = "center">
 <img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=avs-abhishek123&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
 </p> 
