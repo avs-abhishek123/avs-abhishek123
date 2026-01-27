@@ -220,10 +220,6 @@ const Abhishek = {
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=avs-abhishek123&color=0000FF)](https://github.com/avs-abhishek123)
 
-
-<p align = "center">
-<img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=avs-abhishek123&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
-</p> 
 <!---
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Ramakm&theme=redical">
